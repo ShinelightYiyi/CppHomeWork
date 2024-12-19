@@ -1,1 +1,2 @@
 D:\临时数据储存\C++ project\C++大作业2\C++Pro2\x64\Debug\C++Pro2.exe
+E:\ProJect\CppHomeWork\C++Pro2\x64\Debug\C++Pro2.exe
